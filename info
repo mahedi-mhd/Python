@@ -1,0 +1,9 @@
+info = {
+    "Name": "Md Mahedi Hasan",
+    "Dept": "Electrical and Electronic Engnineering",
+    "Institution": "Pabna University Of Science & Techonology",
+    "semester" : 3.2,
+    "Age": 23,
+    "Home Town": "Tangail",
+}
+print(info)
